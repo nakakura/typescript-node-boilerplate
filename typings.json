@@ -1,0 +1,13 @@
+{
+  "name": "es6-babel-react-flux-karma",
+  "version": false,
+  "dependencies": {
+    "chai": "registry:npm/chai#3.5.0+20160723033700",
+    "es6-promise": "registry:npm/es6-promise#3.0.0+20160723033700",
+    "lodash": "registry:npm/lodash#4.0.0+20160723033700",
+    "sinon": "registry:npm/sinon#1.16.0+20160723033700"
+  },
+  "globalDependencies": {
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353"
+  }
+}
